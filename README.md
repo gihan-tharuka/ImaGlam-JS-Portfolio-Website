@@ -40,4 +40,12 @@ Once the website is running, you can navigate through the following sections:
 
 Use the navigation menu to explore different sections of the website. The site is fully responsive, so it can be viewed on devices of any size.
 
+## Screenshots
+![Home Page](img/screenshots/home.jpeg)
+![Sea Turtle Information](img/screenshots/about.jpeg)
+![Booking Page](img/screenshots/threats.jpeg)
+![Booking Page](img/screenshots/hatchery.jpeg)
+![Booking Page](img/screenshots/products.jpeg)
+![Booking Page](img/screenshots/donate.jpeg)
+![Booking Page](img/screenshots/booking.jpeg)
 
